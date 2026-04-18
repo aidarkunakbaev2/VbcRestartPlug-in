@@ -1,0 +1,8 @@
+name: VBCRestart
+version: 1.0
+main: org.vbcrestart.vbcrestart.VBCRestart
+api-version: 1.16
+commands:
+  vbc:
+    description: Restart command with BossBar
+    permission: vbc.admin
