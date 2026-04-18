@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="VBCRestart:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/VBCRestart_jar</output-path>
+    <root id="archive" name="VBCRestart.jar">
+      <element id="module-output" name="VBCRestart" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/spigot-1.16.5.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
